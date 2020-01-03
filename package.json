@@ -1,6 +1,7 @@
 {
   "name": "polymer-tools",
   "private": true,
+  "version":"0.1",
   "description": "Polymer tooling monorepo!",
   "homepage": "https://github.com/Polymer/tools",
   "repository": "https://github.com/Polymer/tools",
